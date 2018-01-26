@@ -983,14 +983,14 @@ p {
 .image-7 {
   display: block;
   margin-right: auto;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   margin-left: auto;
   float: left;
 }
 
 .image-8 {
   display: block;
-  margin: 20px auto;
+  margin: 20px auto 39px;
   float: none;
 }
 
@@ -1396,17 +1396,21 @@ p {
 
 .image-14 {
   display: block;
-  margin: 20px auto 0px;
+  margin: 30px auto 0px;
 }
 
 .image-15 {
   display: block;
+  margin-top: 30px;
   margin-right: auto;
   margin-left: auto;
 }
 
 .paragraph-12 {
+  display: block;
+  margin-right: auto;
   margin-bottom: 50px;
+  margin-left: auto;
   text-align: center;
 }
 
@@ -1650,6 +1654,7 @@ p {
   margin-bottom: 20px;
   font-size: 16px;
   line-height: 25px;
+  text-align: left;
 }
 
 .paragraph-14 {
@@ -1658,14 +1663,39 @@ p {
 }
 
 .paragraph-15 {
+  margin-bottom: 70px;
   float: right;
   font-size: 16px;
   line-height: 25px;
 }
 
 .paragraph-16 {
+  color: dimgrey;
   font-size: 16px;
   line-height: 25px;
+}
+
+.image-18 {
+  width: 10%;
+  margin-top: -9px;
+  margin-right: 0px;
+  margin-left: 10px;
+  padding: 0px;
+  float: left;
+  background-image: -webkit-linear-gradient(270deg, transparent, transparent);
+  background-image: linear-gradient(180deg, transparent, transparent);
+}
+
+.italic-text {
+  color: dimgrey;
+}
+
+.italic-text-2 {
+  color: dimgrey;
+}
+
+.italic-text-3 {
+  color: dimgrey;
 }
 
 @media (max-width: 991px) {
@@ -1856,6 +1886,11 @@ p {
     margin-right: auto;
     margin-left: auto;
     float: none;
+  }
+  .paragraph-12 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 
