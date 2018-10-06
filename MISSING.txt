@@ -1,8 +1,0 @@
-The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
-
-images/22339483_10215204633888434_5460879061865823172_o.jpg
-images/linkedin-2048-black-p-1080.png
-images/linkedin-2048-black-p-500.png
-images/linkedin-2048-black-p-800.png
-images/linkedin-2048-black.png
-images/twitter-icon_black.svg
